@@ -1,0 +1,56 @@
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\bin\Debug\bms.exe
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\bin\Debug\bms.pdb
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.Properties.Resources.resources
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.csproj.GenerateResource.Cache
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.exe
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.pdb
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.frmLogin.resources
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.frmMain.resources
+c:\users\sulman\documents\visual studio 2010\Projects\bms\bms\obj\x86\Debug\bms.frmStock.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.exe
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.pdb
+C:\Users\ali\Documents\BMS\bakeryms\bms\bin\Debug\bms.exe
+C:\Users\ali\Documents\BMS\bakeryms\bms\bin\Debug\bms.pdb
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.csprojResolveAssemblyReference.cache
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.frmLogin.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.frmMain.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.frmStock.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.Properties.Resources.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.csproj.GenerateResource.Cache
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.frmitmupdate.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.frmAdmin.resources
+C:\Users\ali\Documents\BMS\bakeryms\bms\obj\x86\Debug\bms.Form2.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.exe
+D:\bakeryms\bms\obj\x86\Debug\bms.pdb
+D:\bakeryms\bms\obj\x86\Debug\bms.csprojResolveAssemblyReference.cache
+D:\bakeryms\bms\obj\x86\Debug\bms.frmitmupdate.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.Form2.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.frmAdmin.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.frmLogin.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.frmMain.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.frmStock.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.Properties.Resources.resources
+D:\bakeryms\bms\obj\x86\Debug\bms.csproj.GenerateResource.Cache
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.exe
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.frmitmupdate.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.Form2.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.frmAdmin.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.frmLogin.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.frmMain.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.frmStock.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.Properties.Resources.resources
+C:\Users\Sulman\Documents\Asma\bakeryms\bms\obj\x86\Debug\bms.csproj.GenerateResource.Cache
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.exe
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\bin\Debug\bms.exe
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\bin\Debug\bms.pdb
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.frmitmupdate.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.Form2.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.frmAdmin.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.frmLogin.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.frmMain.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.frmStock.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.Properties.Resources.resources
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.csproj.GenerateResource.Cache
+C:\Users\Sulman\Desktop\Asma\bakeryms\bms\obj\x86\Debug\bms.pdb

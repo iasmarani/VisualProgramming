@@ -1,0 +1,23 @@
+create database bms;
+create table items(I_ID int identity(1,1)not null,I_Name varchar(50)null,I_QTY int null,I_TP numeric null,I_RT numeric not null primary key(I_ID));
+insert into items(I_Name,I_QTY,I_TP,I_RT)values('pastries','10','700','800');
+insert into items(I_Name,I_QTY,I_TP,I_RT)values('cakes','12','1000','12000');
+insert into items(I_Name,I_QTY,I_TP,I_RT)values('doughnuts','7','500','600');
+insert into items(I_Name,I_QTY,I_TP,I_RT)values('biscuits','20','600','800');
+insert into items(I_Name,I_QTY,I_TP,I_RT)values('bread','20','700','800');
+select * from items;
+create table vendor(V_ID int identity (1,1) not null,V_Name varchar(50) null,V_PNO numeric null,V_CMP varchar(50)null,V_ADD varchar(50)null,V_Email varchar(50)null,primary key(V_ID));
+insert into vendor(V_Name,V_PNO,V_CMP,V_ADD,V_Email)values('Ali','34566787','Alibakers','9 streetgulshan','alibakers@gmail.com');
+insert into vendor(V_Name,V_PNO,V_CMP,V_ADD,V_Email)values('Zubair','34279822','Zubairbakers','11streetgulshan','zubairbakers@gmail.com');
+insert into vendor(V_Name,V_PNO,V_CMP,V_ADD,V_Email)values('fahad','34534587','Fahadbakers','6streetjauhartown','fahadbakers@gmail.com');
+insert into vendor(V_Name,V_PNO,V_CMP,V_ADD,V_Email)values('Fatima','34279447','Fatimabakers','rashidminhasroad','fatimabakers@gmail.com');
+insert into vendor(V_Name,V_PNO,V_CMP,V_ADD,V_Email)values('azlan','34023478','Azlanbakers','shahraefaisal','azlanbakers@gmail.com');
+select * from vendor;
+create table customer(C_ID int identity (1,1) not null,C_Name varchar(50) null,C_PNO numeric null,C_ADD varchar(50)null,C_Email varchar(50)null,primary key(C_ID));
+insert into customer(C_Name,C_PNO,C_ADD,C_Email)values('Qasim','34566787','9 streetgulshan','qasimhussain@gmail.com');
+insert into customer(C_Name,C_PNO,C_ADD,C_Email)values('Ibad','34279822','11streetgulshan','ibadali@gmail.com');
+insert into customer(C_Name,C_PNO,C_ADD,C_Email)values('Imama','34534587','6streetjauhartown','imama@gmail.com');
+insert into customer(C_Name,C_PNO,C_ADD,C_Email)values('Naila','34279447','rashidminhasroad','nailat@gmail.com');
+insert into customer(C_Name,C_PNO,C_ADD,C_Email)values('Ishrat','34023478','shahraefaisal','ishrat@gmail.com');
+select * from customer;
+create table prchase(P_ID int  
